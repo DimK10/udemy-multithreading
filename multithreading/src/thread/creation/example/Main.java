@@ -1,3 +1,5 @@
+package thread.creation.example;
+
 public class Main {
     public static void main(String[] args) throws InterruptedException {
         Thread thread = new Thread(new Runnable() {

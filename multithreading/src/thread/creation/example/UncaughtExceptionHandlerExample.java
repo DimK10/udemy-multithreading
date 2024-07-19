@@ -1,3 +1,5 @@
+package thread.creation.example;
+
 public class UncaughtExceptionHandlerExample {
 
     public static void main(String[] args) {
