@@ -56,6 +56,7 @@ public class ImageProcessingMain {
         }
 
         int newRGB = createRGBFromColors(newRed, newGreen, newBlue);
+        setRGB(resultImage, x, y, newRGB);
     }
     public static void setRGB(BufferedImage image, int x, int y, int rgb) {
         image.getRaster().setDataElements(x, y, image.getColorModel().getDataElements(rgb, null));
