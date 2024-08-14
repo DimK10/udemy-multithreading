@@ -1,4 +1,4 @@
-package race.condition;
+package thread.race.condition;
 
 public class RaceConditionMain {
     public static void main(String[] args) throws InterruptedException {

@@ -1,4 +1,4 @@
-package race.condition.atomic.operations;
+package thread.race.condition.atomic.operations;
 
 import java.util.Random;
 

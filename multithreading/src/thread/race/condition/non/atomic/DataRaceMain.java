@@ -1,4 +1,4 @@
-package race.condition.non.atomic;
+package thread.race.condition.non.atomic;
 
 public class DataRaceMain {
 
